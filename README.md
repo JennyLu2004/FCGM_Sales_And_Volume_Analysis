@@ -2,6 +2,7 @@
 This project is performed in Excel and showcases a comprehensive sales and volume analysis for an FMCG (Fast-Moving Consumer Goods) company, comparing data from 2015 to 2016.
 
 **Project Overview**
+
 The Excel dashboard presents a clean and interactive model analyzing key financial and operational metrics, including:
 
 - Volume and Gross Sales
@@ -19,6 +20,7 @@ The Excel dashboard presents a clean and interactive model analyzing key financi
 All data is broken down into a year-over-year comparison, with both absolute and percentage changes, clearly highlighting performance trends.
 
 **Features**
+
 Year-over-year analysis with absolute and percentage variance calculation 
 
 KPI summary including:
@@ -39,6 +41,7 @@ KPI summary including:
 - Custom KPI Calculations
 
 **Purpose**
+
 The goal of this project was to build a dynamic and interactive model for business decision-makers to:
 
 - Understand financial performance drivers
